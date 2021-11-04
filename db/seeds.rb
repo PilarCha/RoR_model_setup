@@ -9,3 +9,6 @@ User.delete_all
 
 User.create(name: "Juana la baanana")
 User.create(name: "Pin pon")
+
+Restaurant.create(name:'Pizza Hut', address: "1234 Hubba bubba")
+Restaurant.create(name:'Pizza Hut', address: "1234 Hubba bubba")
